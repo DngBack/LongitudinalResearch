@@ -1,0 +1,44 @@
+label,images_with_label,prevalence_pct
+anatomicalfinding|yes|lung opacity,161708,66.4617
+anatomicalfinding|yes|atelectasis,82434,33.8802
+anatomicalfinding|yes|pleural effusion,75401,30.9897
+anatomicalfinding|yes|enlarged cardiac silhouette,60397,24.8231
+anatomicalfinding|yes|pulmonary edema/hazy opacity,37202,15.29
+anatomicalfinding|yes|vascular congestion,25869,10.6321
+anatomicalfinding|yes|consolidation,18588,7.6396
+anatomicalfinding|yes|pleural/parenchymal scarring,14796,6.0811
+anatomicalfinding|yes|lung lesion,14154,5.8173
+anatomicalfinding|yes|tortuous aorta,13914,5.7186
+anatomicalfinding|yes|linear/patchy atelectasis,13281,5.4585
+anatomicalfinding|yes|pneumothorax,10924,4.4897
+anatomicalfinding|yes|hyperaeration,10683,4.3907
+anatomicalfinding|yes|vascular calcification,10589,4.3521
+anatomicalfinding|yes|lobar/segmental collapse,10043,4.1277
+anatomicalfinding|yes|enlarged hilum,9388,3.8585
+anatomicalfinding|yes|airspace opacity,8995,3.6969
+anatomicalfinding|yes|mass/nodule (not otherwise specified),8181,3.3624
+anatomicalfinding|yes|rib fracture,7361,3.0254
+anatomicalfinding|yes|spinal degenerative changes,7053,2.8988
+anatomicalfinding|yes|elevated hemidiaphragm,6744,2.7718
+anatomicalfinding|yes|costophrenic angle blunting,5975,2.4557
+anatomicalfinding|yes|mediastinal widening,5288,2.1734
+anatomicalfinding|yes|multiple masses/nodules,3905,1.6049
+anatomicalfinding|yes|mediastinal displacement,3654,1.5018
+anatomicalfinding|yes|subcutaneous air,3501,1.4389
+anatomicalfinding|yes|superior mediastinal mass/enlargement,3441,1.4142
+anatomicalfinding|yes|vascular redistribution,3362,1.3818
+anatomicalfinding|yes|scoliosis,3306,1.3588
+anatomicalfinding|yes|spinal fracture,3227,1.3263
+anatomicalfinding|yes|hernia,3141,1.2909
+anatomicalfinding|yes|infiltration,3105,1.2761
+anatomicalfinding|yes|calcified nodule,2861,1.1759
+anatomicalfinding|yes|shoulder osteoarthritis,2293,0.9424
+anatomicalfinding|yes|bone lesion,1881,0.7731
+anatomicalfinding|yes|increased reticular markings/ild pattern,1448,0.5951
+anatomicalfinding|yes|sub-diaphragmatic air,1274,0.5236
+anatomicalfinding|yes|hydropneumothorax,992,0.4077
+anatomicalfinding|yes|bronchiectasis,948,0.3896
+anatomicalfinding|yes|cyst/bullae,921,0.3785
+anatomicalfinding|yes|clavicle fracture,891,0.3662
+anatomicalfinding|yes|pneumomediastinum,887,0.3646
+anatomicalfinding|yes|diaphragmatic eventration (benign),63,0.0259

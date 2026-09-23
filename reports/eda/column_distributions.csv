@@ -1,0 +1,143 @@
+file,column,type,non_missing,missing,unique_categories,mean,min,max,top_values
+analysis/affirmed_attributes_eval4paper.csv,attribute,categorical,70,0,70,,,,nlp|yes|abnormal (1) | nlp|yes|normal (1) | anatomicalfinding|yes|lung opacity (1) | anatomicalfinding|yes|atelectasis (1) | anatomicalfinding|yes|pleural effusion (1) | anatomicalfinding|yes|vascular congestion (1) | anatomicalfinding|yes|pulmonary edema/hazy opacity (1) | technicalassessment|yes|low lung volumes (1) | disease|yes|pneumonia (1) | tubesandlines|yes|enteric tube (1)
+analysis/affirmed_attributes_eval4paper.csv,freq,numeric,70,0,,131.128571,1.0,1940.0,
+analysis/affirmed_attributes_eval4paper.csv,TP,numeric,70,0,,120.857143,1.0,1805.0,
+analysis/affirmed_attributes_eval4paper.csv,FN,numeric,70,0,,10.271429,0.0,213.0,
+analysis/affirmed_attributes_eval4paper.csv,FP,numeric,70,0,,9.8,0.0,183.0,
+analysis/affirmed_attributes_eval4paper.csv,precision,numeric,70,0,,0.927735,0.3333333333333333,1.0,
+analysis/affirmed_attributes_eval4paper.csv,recall,numeric,70,0,,0.92658,0.5,1.0,
+analysis/affirmed_attributes_eval4paper.csv,f1-score,numeric,70,0,,0.923149,0.4,1.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,bbox_name,categorical,38,0,38,,,,left lung (1) | right lung (1) | cardiac silhouette (1) | left lower lung zone (1) | mediastinum (1) | right lower lung zone (1) | right hilar structures (1) | left hilar structures (1) | upper mediastinum (1) | left costophrenic angle (1)
+analysis/affirmed_bboxes_across_attributes_report_level.csv,freq,numeric,38,0,,241.552632,1.0,1453.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,TP,numeric,38,0,,222.631579,1.0,1382.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,FN,numeric,38,0,,18.921053,0.0,73.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,FP,numeric,38,0,,18.052632,0.0,128.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,precision,numeric,38,0,,0.910577,0.5,1.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,recall,numeric,38,0,,0.893471,0.5070422535211268,1.0,
+analysis/affirmed_bboxes_across_attributes_report_level.csv,f1-score,numeric,38,0,,0.896285,0.6153846153846154,1.0,
+analysis/object_to_attribute_relation_stats.csv,bbox,categorical,683,0,38,,,,left lung (38) | left upper lung zone (38) | right lung (38) | right upper lung zone (38) | left lower lung zone (37) | right lower lung zone (37) | left mid lung zone (36) | right mid lung zone (36) | left hilar structures (30) | right hilar structures (30)
+analysis/object_to_attribute_relation_stats.csv,attribute,categorical,683,0,76,,,,nlp|yes|abnormal (38) | nlp|yes|normal (38) | technicalassessment|yes|artifact (33) | disease|yes|lung cancer (16) | tubesandlines|yes|pigtail catheter (15) | anatomicalfinding|yes|calcified nodule (15) | anatomicalfinding|yes|lung lesion (14) | anatomicalfinding|yes|lung opacity (14) | anatomicalfinding|yes|mass/nodule (not otherwise specified) (14) | anatomicalfinding|yes|multiple masses/nodules (14)
+analysis/object_to_attribute_relation_stats.csv,freq_nlp,numeric,683,0,,6632.215227,1.0,138308.0,
+analysis/object_to_attribute_relation_stats.csv,freq_has_bbox,numeric,683,0,,6334.420205,0.0,138262.0,
+analysis/object_to_object_comparison_relation_stats.csv,bbox,categorical,2681,0,29,,,,left lung (232) | right lung (231) | right lower lung zone (215) | left lower lung zone (212) | right mid lung zone (202) | left mid lung zone (199) | right upper lung zone (183) | left upper lung zone (176) | right hilar structures (158) | left hilar structures (156)
+analysis/object_to_object_comparison_relation_stats.csv,comparison,categorical,2681,0,7,,,,no change (493) | worsened (485) | improved (444) | improved;;no change (360) | no change;;worsened (354) | improved;;worsened (345) | improved;;no change;;worsened (200)
+analysis/object_to_object_comparison_relation_stats.csv,attribute,categorical,2681,0,57,,,,nlp|yes|abnormal (170) | nlp|yes|normal (134) | anatomicalfinding|yes|lung opacity (98) | anatomicalfinding|yes|lung lesion (84) | anatomicalfinding|yes|pulmonary edema/hazy opacity (84) | anatomicalfinding|yes|atelectasis (82) | anatomicalfinding|yes|consolidation (82) | anatomicalfinding|yes|mass/nodule (not otherwise specified) (81) | anatomicalfinding|yes|pleural/parenchymal scarring (81) | disease|yes|pneumonia (81)
+analysis/object_to_object_comparison_relation_stats.csv,freq_nlp,numeric,2681,0,,665.45207,1.0,43292.0,
+analysis/object_to_object_comparison_relation_stats.csv,freq_have_bboxes,numeric,2681,0,,650.086162,0.0,43258.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,image_id,categorical,16996,0,500,,,,5172172b-a75c52f3-d0d2bcc2-fc0443a7-fae84169.dcm (35) | 56419692-cde14ddf-29253fc5-9c4350fc-4c30bcda.dcm (35) | 00046130-fd952ef0-57f2948d-491a16b4-5db3a18c.dcm (34) | 005043e2-a4e25d1d-aae26631-732a2db0-38412248.dcm (34) | 009a6abf-9d2e4695-673ee589-a7c60144-2dd81769.dcm (34) | 00aaebdb-f951cb37-939b01d4-b8a6d151-a541e722.dcm (34) | 00c42227-85095f27-933ba966-9ddbb51c-e9b1d057.dcm (34) | 014d4aed-acffbea9-d6fca9ee-736689dd-5c1da71f.dcm (34) | 014e584c-703d0e00-ba7b2566-6e31b9fc-e7c89d67.dcm (34) | 0171bd40-96d78e1a-cf987a4f-36784e08-52170a07.dcm (34)
+gold_dataset/bbox_coordinate_annotations_1_C.csv,x1,numeric,16996,0,,87.592257,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,y1,numeric,16996,0,,91.910038,0.0,219.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,x2,numeric,16996,0,,140.428336,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,y2,numeric,16996,0,,140.577724,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,width,numeric,16996,0,,52.836079,-119.0,223.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,height,numeric,16996,0,,48.667687,0.0,196.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,bbox_name,categorical,16996,0,34,,,,left cardiophrenic angle (501) | left upper lung zone (501) | abdomen (500) | aortic arch (500) | cardiac silhouette (500) | carina (500) | cavoatrial junction (500) | left cardiac silhouette (500) | left costophrenic angle (500) | left hemidiaphragm (500)
+gold_dataset/bbox_coordinate_annotations_1_C.csv,annot_id,categorical,16996,0,more_than_limit,,,,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,original_x1,numeric,16996,0,,1021.029654,-259.0,3050.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,original_x2,numeric,16996,0,,1715.266945,-259.0,3042.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,original_y1,numeric,16996,0,,1111.231054,-258.0,2892.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,original_y2,numeric,16996,0,,1750.415333,0.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,original_width,numeric,16996,0,,694.237291,-1620.0,3036.0,
+gold_dataset/bbox_coordinate_annotations_1_C.csv,original_height,numeric,16996,0,,639.184279,0.0,2565.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,image_id,categorical,16995,0,500,,,,56419692-cde14ddf-29253fc5-9c4350fc-4c30bcda.dcm (35) | 00046130-fd952ef0-57f2948d-491a16b4-5db3a18c.dcm (34) | 005043e2-a4e25d1d-aae26631-732a2db0-38412248.dcm (34) | 009a6abf-9d2e4695-673ee589-a7c60144-2dd81769.dcm (34) | 00aaebdb-f951cb37-939b01d4-b8a6d151-a541e722.dcm (34) | 00c42227-85095f27-933ba966-9ddbb51c-e9b1d057.dcm (34) | 014d4aed-acffbea9-d6fca9ee-736689dd-5c1da71f.dcm (34) | 014e584c-703d0e00-ba7b2566-6e31b9fc-e7c89d67.dcm (34) | 0171bd40-96d78e1a-cf987a4f-36784e08-52170a07.dcm (34) | 01b1eecf-7b2ef75f-62a420ba-50abbf6c-31f68583.dcm (34)
+gold_dataset/bbox_coordinate_annotations_1_W.csv,x1,numeric,16995,0,,87.678611,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,y1,numeric,16995,0,,91.651074,0.0,219.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,x2,numeric,16995,0,,140.581936,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,y2,numeric,16995,0,,140.408238,16.0,224.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,width,numeric,16995,0,,52.903325,-119.0,223.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,height,numeric,16995,0,,48.757164,-4.0,210.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,bbox_name,categorical,16995,0,34,,,,right hemidiaphragm (501) | abdomen (500) | aortic arch (500) | cardiac silhouette (500) | carina (500) | cavoatrial junction (500) | left cardiac silhouette (500) | left cardiophrenic angle (500) | left costophrenic angle (500) | left hemidiaphragm (500)
+gold_dataset/bbox_coordinate_annotations_1_W.csv,annot_id,categorical,16995,0,more_than_limit,,,,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,original_x1,numeric,16995,0,,1022.09138,-245.0,3050.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,original_x2,numeric,16995,0,,1717.293498,0.0,3050.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,original_y1,numeric,16995,0,,1107.748573,-258.0,2892.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,original_y2,numeric,16995,0,,1748.217888,217.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,original_width,numeric,16995,0,,695.202118,-1620.0,3036.0,
+gold_dataset/bbox_coordinate_annotations_1_W.csv,original_height,numeric,16995,0,,640.469315,-54.0,2859.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,image_id,categorical,16934,0,500,,,,027d9be0-f4de63a0-9df19bb0-c0d683d1-143c1229.dcm (35) | 3038c6b6-cefedf65-187cdeef-78dc5c05-c4e8b6f2.dcm (35) | 531177a3-460117ed-431fbacb-969aa782-e5c4cbea.dcm (35) | 00637f42-a2f19a71-cd265165-0928eca9-c6d14eee.dcm (34) | 021a2da4-278de79c-1faf749e-63ebac9f-03d4b44f.dcm (34) | 0258b91a-c554af5f-775bfb4b-ef853ab1-bc3472f3.dcm (34) | 02614eb5-e143a78b-19cac71a-cd3998f7-ab05533b.dcm (34) | 02e1501b-3f90603c-cd8183b7-56239ff4-296f4ad2.dcm (34) | 03543d3d-a38e3d8e-4455fbf5-1af5ae6f-d1b52bc9.dcm (34) | 03e5a9be-b3338728-436f1cc7-62dc6c60-3d329d48.dcm (34)
+gold_dataset/bbox_coordinate_annotations_2_J.csv,x1,numeric,16934,0,,86.437227,0.0,215.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,y1,numeric,16934,0,,88.41083,0.0,212.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,x2,numeric,16934,0,,139.361049,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,y2,numeric,16934,0,,137.946734,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,width,numeric,16934,0,,52.923822,-95.0,214.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,height,numeric,16934,0,,49.535904,-26.0,224.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,bbox_name,categorical,16934,0,34,,,,left cardiophrenic angle (502) | right hemidiaphragm (501) | abdomen (500) | aortic arch (500) | cardiac silhouette (500) | cavoatrial junction (500) | left cardiac silhouette (500) | left costophrenic angle (500) | left hemidiaphragm (500) | left lung (500)
+gold_dataset/bbox_coordinate_annotations_2_J.csv,annot_id,categorical,16934,0,more_than_limit,,,,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,original_x1,numeric,16934,0,,990.388567,-272.0,2933.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,original_x2,numeric,16934,0,,1678.876343,-259.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,original_y1,numeric,16934,0,,1062.320007,-259.0,2837.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,original_y2,numeric,16934,0,,1706.89276,-259.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,original_width,numeric,16934,0,,688.487776,-1296.0,2919.0,
+gold_dataset/bbox_coordinate_annotations_2_J.csv,original_height,numeric,16934,0,,644.572753,-323.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,image_id,categorical,16998,0,500,,,,b170225d-3e48d264-167250cf-38a73d74-05928f0c.dcm (35) | 00637f42-a2f19a71-cd265165-0928eca9-c6d14eee.dcm (34) | 021a2da4-278de79c-1faf749e-63ebac9f-03d4b44f.dcm (34) | 0258b91a-c554af5f-775bfb4b-ef853ab1-bc3472f3.dcm (34) | 02614eb5-e143a78b-19cac71a-cd3998f7-ab05533b.dcm (34) | 027d9be0-f4de63a0-9df19bb0-c0d683d1-143c1229.dcm (34) | 02e1501b-3f90603c-cd8183b7-56239ff4-296f4ad2.dcm (34) | 03543d3d-a38e3d8e-4455fbf5-1af5ae6f-d1b52bc9.dcm (34) | 03e5a9be-b3338728-436f1cc7-62dc6c60-3d329d48.dcm (34) | 042f85a5-8636de9f-4ba9a113-fcf75569-c93d139a.dcm (34)
+gold_dataset/bbox_coordinate_annotations_2_S.csv,x1,numeric,16998,0,,86.664549,0.0,215.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,y1,numeric,16998,0,,88.474879,0.0,212.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,x2,numeric,16998,0,,139.603836,0.0,224.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,y2,numeric,16998,0,,137.630662,5.0,224.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,width,numeric,16998,0,,52.939287,-75.0,214.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,height,numeric,16998,0,,49.155783,-21.0,224.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,bbox_name,categorical,16997,1,34,,,,right upper lung zone (502) | left lower lung zone (501) | abdomen (500) | aortic arch (500) | cardiac silhouette (500) | cavoatrial junction (500) | left apical zone (500) | left cardiac silhouette (500) | left cardiophrenic angle (500) | left costophrenic angle (500)
+gold_dataset/bbox_coordinate_annotations_2_S.csv,annot_id,categorical,16998,0,more_than_limit,,,,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,original_x1,numeric,16998,0,,993.214261,-272.0,2933.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,original_x2,numeric,16998,0,,1681.942287,-258.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,original_y1,numeric,16998,0,,1063.735969,-259.0,2837.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,original_y2,numeric,16998,0,,1703.398047,68.0,3056.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,original_width,numeric,16998,0,,688.728027,-1023.0,2919.0,
+gold_dataset/bbox_coordinate_annotations_2_S.csv,original_height,numeric,16998,0,,639.662078,-286.0,3056.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,image_id,categorical,25989,0,1000,,,,00046130-fd952ef0-57f2948d-491a16b4-5db3a18c.dcm (26) | 005043e2-a4e25d1d-aae26631-732a2db0-38412248.dcm (26) | 009a6abf-9d2e4695-673ee589-a7c60144-2dd81769.dcm (26) | 00aaebdb-f951cb37-939b01d4-b8a6d151-a541e722.dcm (26) | 00c42227-85095f27-933ba966-9ddbb51c-e9b1d057.dcm (26) | 014d4aed-acffbea9-d6fca9ee-736689dd-5c1da71f.dcm (26) | 014e584c-703d0e00-ba7b2566-6e31b9fc-e7c89d67.dcm (26) | 0171bd40-96d78e1a-cf987a4f-36784e08-52170a07.dcm (26) | 01b1eecf-7b2ef75f-62a420ba-50abbf6c-31f68583.dcm (26) | 01bcad7b-6c454567-24503e81-55252098-b5ef3476.dcm (26)
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,x1,numeric,25989,0,,86.877865,0.0,224.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,y1,numeric,25989,0,,80.886696,0.0,219.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,x2,numeric,25989,0,,136.626554,0.0,224.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,y2,numeric,25989,0,,125.283953,13.0,224.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,width,numeric,25989,0,,49.748689,-119.0,223.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,height,numeric,25989,0,,44.397258,-21.0,200.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,bbox_name,categorical,25989,0,26,,,,aortic arch (1000) | cardiac silhouette (1000) | cavoatrial junction (1000) | left costophrenic angle (1000) | left hemidiaphragm (1000) | left hilar structures (1000) | left lower lung zone (1000) | left lung (1000) | left mid lung zone (1000) | left upper lung zone (1000)
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,annot_id,categorical,25989,0,more_than_limit,,,,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,original_x1,numeric,25989,0,,1003.812119,-272.0,3050.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,original_x2,numeric,25989,0,,1654.254473,-81.0,3049.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,original_y1,numeric,25989,0,,965.74586,-259.0,2892.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,original_y2,numeric,25989,0,,1546.038022,148.0,3042.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,original_width,numeric,25989,0,,650.442354,-1620.0,3036.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,original_height,numeric,25989,0,,580.292162,-286.0,2728.0,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,annotator,categorical,25989,0,8,,,,C&&W (12992) | S&&J (12926) | S (64) | S&&S&&J (3) | C&&C&&W (1) | C&&W&&W (1) | S&&J&&J (1) | J (1)
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,coord224,categorical,25989,0,more_than_limit,,,,
+gold_dataset/gold_bbox_coordinate_annotations_1000images.csv,coord_original,categorical,25989,0,more_than_limit,,,,
+gold_dataset/gold_bbox_scaling_factors_original_to_224x224.csv,image_id,categorical,1000,0,1000,,,,00046130-fd952ef0-57f2948d-491a16b4-5db3a18c.dcm (1) | 005043e2-a4e25d1d-aae26631-732a2db0-38412248.dcm (1) | 009a6abf-9d2e4695-673ee589-a7c60144-2dd81769.dcm (1) | 00aaebdb-f951cb37-939b01d4-b8a6d151-a541e722.dcm (1) | 00c42227-85095f27-933ba966-9ddbb51c-e9b1d057.dcm (1) | 014d4aed-acffbea9-d6fca9ee-736689dd-5c1da71f.dcm (1) | 014e584c-703d0e00-ba7b2566-6e31b9fc-e7c89d67.dcm (1) | 0171bd40-96d78e1a-cf987a4f-36784e08-52170a07.dcm (1) | 01b1eecf-7b2ef75f-62a420ba-50abbf6c-31f68583.dcm (1) | 01bcad7b-6c454567-24503e81-55252098-b5ef3476.dcm (1)
+gold_dataset/gold_bbox_scaling_factors_original_to_224x224.csv,top,numeric,1000,0,,7.16,0.0,28.0,
+gold_dataset/gold_bbox_scaling_factors_original_to_224x224.csv,bottom,numeric,1000,0,,7.622,0.0,28.0,
+gold_dataset/gold_bbox_scaling_factors_original_to_224x224.csv,left,numeric,1000,0,,10.22,0.0,34.0,
+gold_dataset/gold_bbox_scaling_factors_original_to_224x224.csv,right,numeric,1000,0,,10.559,0.0,35.0,
+gold_dataset/gold_bbox_scaling_factors_original_to_224x224.csv,ratio,numeric,1000,0,,0.077392,0.07329842931937172,0.12684031710079274,
+silver_dataset/splits/images_to_avoid.csv,subject_id,numeric,3821,0,,14968007.940853,10020740.0,19998497.0,
+silver_dataset/splits/images_to_avoid.csv,study_id,numeric,3821,0,,55075919.624444,50001867.0,59985027.0,
+silver_dataset/splits/images_to_avoid.csv,dicom_id,categorical,3821,0,3821,,,,e6fc6d7b-f88744b6-6a47d5ea-6ec8196e-31103898 (1) | 1e9274f8-466b1e85-2154ebfc-bbe61b1d-9ab917ae (1) | 24846375-ff8342b6-1a398fb2-47b7b8ff-91f91217 (1) | 2a6a1c0e-4f007cd8-82de0f41-ff835c60-131e7e33 (1) | 46ee8707-81386f73-3ff804c3-92e6044b-dce8d6b2 (1) | 014cf120-d578617b-edc3682a-28dc6244-d719eda5 (1) | 05dc78a3-40d8dbb7-8aa87159-68ae3b9d-023b0793 (1) | 13ba579e-736450c7-f8722c82-7cb94950-f21fe768 (1) | 27776756-1d9ef4fc-cd8dd0ca-1453072f-12c0f484 (1) | a295587b-20609129-6cf36778-c342ec0a-43ddfdee (1)
+silver_dataset/splits/images_to_avoid.csv,path,categorical,3821,0,3821,,,,files/p10/p10020740/s51970847/e6fc6d7b-f88744b6-6a47d5ea-6ec8196e-31103898.dcm (1) | files/p10/p10020740/s52180258/1e9274f8-466b1e85-2154ebfc-bbe61b1d-9ab917ae.dcm (1) | files/p10/p10020740/s52268471/24846375-ff8342b6-1a398fb2-47b7b8ff-91f91217.dcm (1) | files/p10/p10020740/s52268471/2a6a1c0e-4f007cd8-82de0f41-ff835c60-131e7e33.dcm (1) | files/p10/p10020740/s52268471/46ee8707-81386f73-3ff804c3-92e6044b-dce8d6b2.dcm (1) | files/p10/p10020740/s53160696/014cf120-d578617b-edc3682a-28dc6244-d719eda5.dcm (1) | files/p10/p10020740/s54429329/05dc78a3-40d8dbb7-8aa87159-68ae3b9d-023b0793.dcm (1) | files/p10/p10020740/s55372019/13ba579e-736450c7-f8722c82-7cb94950-f21fe768.dcm (1) | files/p10/p10020740/s55522869/27776756-1d9ef4fc-cd8dd0ca-1453072f-12c0f484.dcm (1) | files/p10/p10020740/s56053044/a295587b-20609129-6cf36778-c342ec0a-43ddfdee.dcm (1)
+silver_dataset/splits/images_to_avoid.csv,ViewPosition,categorical,3821,0,4,,,,AP (2059) | LATERAL (807) | PA (722) | LL (233)
+silver_dataset/splits/test.csv,,numeric,47393,0,,23696.0,0.0,47392.0,
+silver_dataset/splits/test.csv,subject_id,numeric,47393,0,,14941561.240204,10000032.0,19999987.0,
+silver_dataset/splits/test.csv,study_id,numeric,47393,0,,55011776.617749,50000028.0,59999832.0,
+silver_dataset/splits/test.csv,dicom_id,categorical,47393,0,more_than_limit,,,,
+silver_dataset/splits/test.csv,path,categorical,47393,0,more_than_limit,,,,
+silver_dataset/splits/test.csv,ViewPosition,categorical,47393,0,2,,,,AP (28358) | PA (19035)
+silver_dataset/splits/train.csv,,numeric,166521,0,,83260.0,0.0,166520.0,
+silver_dataset/splits/train.csv,subject_id,numeric,166521,0,,15025802.285478,10000980.0,19999442.0,
+silver_dataset/splits/train.csv,study_id,numeric,166521,0,,55000355.754007,50000014.0,59999924.0,
+silver_dataset/splits/train.csv,dicom_id,categorical,166521,0,more_than_limit,,,,
+silver_dataset/splits/train.csv,path,categorical,166521,0,more_than_limit,,,,
+silver_dataset/splits/train.csv,ViewPosition,categorical,166521,0,2,,,,AP (100370) | PA (66151)
+silver_dataset/splits/valid.csv,,numeric,23953,0,,11976.0,0.0,23952.0,
+silver_dataset/splits/valid.csv,subject_id,numeric,23953,0,,14992965.543982,10000935.0,19999376.0,
+silver_dataset/splits/valid.csv,study_id,numeric,23953,0,,55000655.018369,50000635.0,59999179.0,
+silver_dataset/splits/valid.csv,dicom_id,categorical,23953,0,more_than_limit,,,,
+silver_dataset/splits/valid.csv,path,categorical,23953,0,more_than_limit,,,,
+silver_dataset/splits/valid.csv,ViewPosition,categorical,23953,0,2,,,,AP (14426) | PA (9527)
+utils/cxr-record-list_view.csv,subject_id,numeric,377110,0,,15008061.957103,10000032.0,19999987.0,
+utils/cxr-record-list_view.csv,study_id,numeric,377110,0,,55005569.945973,50000014.0,59999924.0,
+utils/cxr-record-list_view.csv,dicom_id,categorical,377110,0,more_than_limit,,,,
+utils/cxr-record-list_view.csv,path,categorical,377110,0,more_than_limit,,,,
+utils/cxr-record-list_view.csv,ViewPosition,categorical,361341,15769,14,,,,AP (147173) | PA (96161) | LATERAL (82853) | LL (35133) | PA LLD (4) | LAO (3) | RAO (3) | AP AXIAL (2) | AP LLD (2) | XTABLE LATERAL (2)
+utils/cxr-study-list_v2.csv,subject_id,numeric,227835,0,,15005823.783492,10000032.0,19999987.0,
+utils/cxr-study-list_v2.csv,study_id,numeric,227835,0,,55004503.274111,50000014.0,59999924.0,
+utils/cxr-study-list_v2.csv,path,categorical,227835,0,more_than_limit,,,,
+utils/cxr-study-list_v2.csv,gender,categorical,227665,170,2,,,,M (116778) | F (110887)
+utils/cxr-study-list_v2.csv,age_decile,categorical,227665,170,10,,,,50-60 (47924) | 60-70 (47817) | 40-50 (35612) | 70-80 (33137) | 30-40 (22964) | 20-30 (18366) | 80-90 (14948) | 20-Oct (4243) | >=90 (2492) | 0-10 (162)

@@ -1,0 +1,101 @@
+image_id,bbox_label,x1,y1,x2,y2
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,aortic arch,119.0,40.0,137.0,58.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,cardiac silhouette,103.0,81.0,181.0,138.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,carina,110.0,55.0,120.0,65.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,cavoatrial junction,103.0,81.0,123.0,96.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left costophrenic angle,200.0,124.0,220.0,144.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left hemidiaphragm,121.0,106.0,211.0,138.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left hilar structures,123.0,52.0,159.0,92.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left lower lung zone,134.0,87.0,211.0,138.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left lung,121.0,25.0,211.0,138.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left mid lung zone,125.0,58.0,193.0,87.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,left upper lung zone,121.0,25.0,185.0,58.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right atrium,103.0,96.0,123.0,127.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right costophrenic angle,32.0,140.0,52.0,160.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right hemidiaphragm,42.0,112.0,128.0,155.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right hilar structures,79.0,51.0,114.0,100.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right lower lung zone,42.0,93.0,115.0,155.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right lung,42.0,25.0,115.0,155.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right mid lung zone,45.0,58.0,113.0,93.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,right upper lung zone,46.0,25.0,109.0,58.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,svc,99.0,40.0,119.0,80.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,trachea,97.0,25.0,128.0,88.0
+32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57.dcm,upper mediastinum,99.0,25.0,156.0,80.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,aortic arch,111.0,72.0,128.0,88.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,cardiac silhouette,82.0,108.0,171.0,171.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,carina,98.0,87.0,107.0,96.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,cavoatrial junction,82.0,108.0,105.0,126.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left apical zone,115.0,24.0,167.0,59.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left clavicle,119.0,33.0,195.0,57.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left costophrenic angle,183.0,164.0,203.0,184.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left hemidiaphragm,114.0,145.0,194.0,179.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left hilar structures,114.0,81.0,147.0,127.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left lower lung zone,116.0,121.0,194.0,179.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left lung,114.0,24.0,194.0,179.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left mid lung zone,114.0,88.0,181.0,121.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,left upper lung zone,114.0,29.0,174.0,88.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right apical zone,49.0,21.0,102.0,59.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right atrium,82.0,126.0,105.0,162.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right clavicle,7.0,33.0,97.0,59.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right costophrenic angle,6.0,169.0,26.0,189.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right hemidiaphragm,16.0,135.0,110.0,184.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right hilar structures,64.0,81.0,99.0,130.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right lower lung zone,16.0,123.0,94.0,184.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right lung,16.0,21.0,102.0,184.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right mid lung zone,31.0,88.0,97.0,123.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,right upper lung zone,41.0,26.0,102.0,88.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,svc,87.0,72.0,111.0,107.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,trachea,88.0,24.0,116.0,108.0
+3a85d727-e4bedaf5-1010c474-b7c5ffde-88539057.dcm,upper mediastinum,87.0,46.0,143.0,107.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,aortic arch,115.0,52.0,129.0,65.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,cardiac silhouette,94.0,85.0,165.0,143.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,carina,105.0,61.0,116.0,72.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,cavoatrial junction,94.0,85.0,112.0,100.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left apical zone,124.0,17.0,166.0,45.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left clavicle,132.0,7.0,193.0,45.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left costophrenic angle,171.0,143.0,191.0,163.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left hemidiaphragm,118.0,129.0,181.0,158.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left hilar structures,118.0,58.0,146.0,105.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left lower lung zone,119.0,99.0,181.0,158.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left lung,118.0,17.0,181.0,158.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left mid lung zone,118.0,65.0,175.0,99.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,left upper lung zone,119.0,21.0,172.0,65.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right apical zone,62.0,13.0,113.0,45.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right atrium,94.0,100.0,112.0,132.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right clavicle,45.0,3.0,111.0,41.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right costophrenic angle,25.0,135.0,45.0,155.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right hemidiaphragm,35.0,120.0,117.0,149.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right hilar structures,75.0,58.0,109.0,102.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right lower lung zone,35.0,96.0,100.0,149.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right lung,35.0,13.0,113.0,149.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right mid lung zone,45.0,65.0,105.0,96.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,right upper lung zone,54.0,18.0,113.0,65.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,svc,96.0,52.0,115.0,84.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,trachea,95.0,3.0,128.0,84.0
+7284f3ab-7388b049-f547ed1c-a55ce489-f235d467.dcm,upper mediastinum,96.0,33.0,136.0,84.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,aortic arch,126.0,68.0,145.0,86.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,cardiac silhouette,96.0,93.0,173.0,138.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,carina,110.0,85.0,121.0,96.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,cavoatrial junction,96.0,93.0,105.0,107.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left apical zone,130.0,34.0,177.0,64.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left clavicle,139.0,27.0,202.0,64.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left costophrenic angle,185.0,132.0,205.0,152.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left hemidiaphragm,122.0,121.0,195.0,145.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left hilar structures,122.0,81.0,155.0,111.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left lower lung zone,122.0,107.0,195.0,145.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left lung,122.0,34.0,195.0,145.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left mid lung zone,122.0,86.0,188.0,107.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,left upper lung zone,130.0,38.0,186.0,86.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right apical zone,63.0,28.0,121.0,64.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right atrium,96.0,107.0,105.0,135.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right clavicle,41.0,25.0,118.0,61.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right costophrenic angle,25.0,109.0,45.0,129.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right hemidiaphragm,35.0,108.0,121.0,137.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right hilar structures,76.0,82.0,115.0,107.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right lower lung zone,35.0,104.0,104.0,137.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right lung,35.0,28.0,121.0,137.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right mid lung zone,42.0,86.0,110.0,104.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,right upper lung zone,50.0,33.0,121.0,86.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,svc,100.0,68.0,126.0,92.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,trachea,100.0,35.0,134.0,101.0
+ffb342e2-ba589b5a-7cc6a641-d2de40e2-60c659cc.dcm,upper mediastinum,100.0,49.0,146.0,92.0

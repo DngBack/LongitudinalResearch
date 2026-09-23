@@ -1,0 +1,6 @@
+source,image_count,count_unit
+CXR record list,377110,record rows
+Scene graph,243310,unique image graphs
+Train split,166521,split rows
+Validation split,23953,split rows
+Test split,47393,split rows
