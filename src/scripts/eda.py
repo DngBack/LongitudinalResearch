@@ -12,13 +12,14 @@ sys.path.insert(0, str(PROJECT_ROOT / "src"))
 from data.analyse import (  # noqa: E402
     analyse_distributions,
     analyse_overview,
+    analyse_patient_timeline,
     analyse_quality,
     analyse_visualizations,
 )
 from data.analyse.common import DEFAULT_DATA_DIR  # noqa: E402
 
 
-SECTIONS = ("overview", "quality", "distributions", "visualizations")
+SECTIONS = ("overview", "quality", "distributions", "visualizations", "patient_timeline")
 
 
 def parse_args() -> argparse.Namespace:
@@ -51,6 +52,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--sample-count", type=int, default=4,
         help="Number of annotated image samples to include (default: 4)",
+    )
+    parser.add_argument(
+        "--patient-id", default="auto",
+        help="Patient for the longitudinal timeline; default auto-selects a patient with multiple studies",
     )
     return parser.parse_args()
 
@@ -85,6 +90,7 @@ def main() -> int:
             top_n=args.top_labels,
             sample_count=args.sample_count,
         ),
+        "patient_timeline": lambda: analyse_patient_timeline(data_dir, output_dir, args.patient_id),
     }
     for section in selected:
         print(f"[{section}] {runners[section]()}")

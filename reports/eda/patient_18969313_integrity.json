@@ -1,0 +1,18 @@
+{
+  "patient_id": "18969313",
+  "frontal_studies_in_record_list": 15,
+  "frontal_images_in_record_list": 17,
+  "scene_graphs_loaded": 17,
+  "missing_scene_graphs": [],
+  "unexpected_patient_graphs": [],
+  "studies_with_inconsistent_study_order": [],
+  "studies_with_inconsistent_study_datetime": [],
+  "study_order_date_conflicts": [],
+  "explicit_comparison_relations": 62,
+  "frontal_studies_with_local_sample_images": 15,
+  "relations_with_endpoints_outside_selected_patient_graphs": 0,
+  "relations_within_same_study": 0,
+  "integrity_note": "This checks metadata and relation endpoints for this patient's frontal images; it does not establish clinical correctness or dataset-wide completeness.",
+  "images_in_comparison_figure": 15,
+  "disease_change_pairs_highlighted": 4
+}

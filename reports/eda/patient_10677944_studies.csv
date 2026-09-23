@@ -1,0 +1,16 @@
+study_id,study_order,study_datetime,image_count,graph_count,image_ids,positive_findings
+59530008,1,2183-07-27 13:57:54 UTC,2,2,b9921ed4-9ff54651-69ea1100-efffe540-26e3985e;c9f82e39-eb07cb8c-5b3651f5-0845fff5-682c6cc0,spinal degenerative changes;vascular calcification
+53191266,2,2183-08-06 15:01:50 UTC,2,2,b2cf1b28-bd6e8120-40bb9a17-e816a74d-3c9eed17;ba85c6ff-c440f259-7f1f05c0-a31e55a6-28448c49,spinal degenerative changes
+55339325,3,2183-08-18 10:58:31 UTC,2,2,b623970e-162d3257-12d75dfd-d3413c5e-37b6c11b;f6208b1b-86c9c3c1-9fcfdaf2-8cbe0ab4-908e9553,spinal degenerative changes;vascular calcification
+53260194,4,2184-03-31 08:45:46 UTC,2,2,145b24ae-6e2e4c5d-db946443-eae037f3-f5d0a18c;e056ad6c-241f46e7-1da1cd16-9451c3a0-c735b749,spinal degenerative changes;vascular calcification
+57822215,5,2184-07-15 18:46:08 UTC,2,2,35bc0246-ba9fc1b8-154d129a-3ad8289d-dc531dbc;dea29eac-d397b2fd-53090aaa-ac075e97-78536816,tortuous aorta;vascular calcification
+53614995,6,2184-07-20 12:09:30 UTC,2,2,6b9d60a3-2063fffc-05c3a3d1-dd94914f-ba7219f2;bc21200d-376bc4ac-3ddc3985-87774227-8eb02161,
+50785151,7,2184-07-29 14:20:23 UTC,2,2,bd4521b6-fb0f3dea-23b1fe12-1360b8d4-9e07d0d0;d161f698-2b133339-57af6dc5-5803ab96-2648124a,
+54422359,8,2185-02-11 20:25:44 UTC,1,1,e4b47d49-86b50214-b4c17365-1b74b4c2-7c58c560,atelectasis;linear/patchy atelectasis;lung opacity;tortuous aorta;vascular calcification
+55426199,9,2185-11-13 18:02:49 UTC,1,1,6268c82d-bf47a266-ce4b5f3b-1bc7e0f2-52dbb1d1,atelectasis;lung opacity;tortuous aorta
+51355601,10,2185-11-24 16:07:03 UTC,2,2,3cae9691-4f7f56d6-9706fa46-e9b6d638-c753b0d5;a68887fe-44ce2d79-d9297bff-785f4fde-96efc48d,atelectasis;linear/patchy atelectasis;lung opacity;pleural/parenchymal scarring
+56447904,11,2185-12-21 17:52:27 UTC,1,1,102ba732-9b226c3b-213d3656-c688dee4-e504cd7c,atelectasis;linear/patchy atelectasis;lung opacity;spinal degenerative changes;tortuous aorta;vascular calcification
+51046220,12,2185-12-31 01:03:08 UTC,2,2,e15f50b4-25e035a7-cee83200-bf786552-926f1ced;fc024a8e-aafd3ff8-d6aa81bd-584ff6c3-3992789a,
+57043618,13,2186-02-13 15:40:24 UTC,2,2,6a02baf7-a88c2176-7842df10-88021a44-09089145;6f1ab019-6bd9af39-79857d1d-b4192486-8a94d38c,
+59371676,14,2186-11-16 21:41:29 UTC,2,2,435218a2-b519217f-8a4f7d5e-320b6679-431ae029;690989e5-391acece-bda400c8-1736b382-0518a6bd,
+58815592,15,2187-08-30 16:46:42 UTC,1,1,b5981370-c259c2d1-53ba6bf7-92c59518-c9f42154,elevated hemidiaphragm

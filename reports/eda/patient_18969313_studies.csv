@@ -1,0 +1,16 @@
+study_id,study_order,study_datetime,image_count,graph_count,image_ids,positive_findings
+50769434,1,2117-05-06 18:39:26 UTC,2,2,32d1c115-79e9dd72-347daf9c-653794f4-3f9b2a57;71afc401-fa3d27c2-6d376c2c-bf8927a3-72cd6e1f,
+50415600,2,2118-02-04 15:47:33 UTC,1,1,32c3e783-d848a780-696a8570-b686a371-78954353,increased reticular markings/ild pattern;lung opacity;pleural effusion
+59887925,3,2118-02-06 11:33:28 UTC,1,1,054a8a74-acdc38e4-aed0c558-70bbcfc2-a07e22e0,lung opacity;pleural effusion;pulmonary edema/hazy opacity
+58227776,4,2118-06-17 17:18:03 UTC,1,1,779a6bc8-291aa741-c41360ca-2d1e38be-dc15b0a3,atelectasis;lung opacity;vascular congestion
+55912747,5,2118-06-26 18:23:24 UTC,1,1,14c51823-1faa99d4-0d521d82-0d172f58-9ad8cfcf,
+52379685,6,2118-07-20 16:25:27 UTC,1,1,a4312139-7e3fa7b2-07ca5605-43bbac6a-9dff0542,
+55409359,7,2118-07-28 21:27:02 UTC,1,1,97b607cd-0f29ef2c-e5f6423f-82919d6e-d03a4720,
+57573935,8,2118-11-08 19:58:06 UTC,1,1,ad2e3c36-76553a18-3162ef82-b39c6784-401fa4d8,lung opacity;pneumothorax;pulmonary edema/hazy opacity;subcutaneous air
+51585526,9,2118-11-09 11:31:01 UTC,1,1,30ba7648-d6bcc1a6-deba2b7e-3e0e73d7-c10c02a4,subcutaneous air
+58902785,10,2118-11-09 20:28:40 UTC,1,1,68751245-0904503e-137e5982-b8cf283b-b81f865d,pneumothorax
+57623498,11,2118-11-10 09:49:20 UTC,2,2,28978242-21087510-edfc6cbb-5f47f4ca-762cd443;7e749557-52cf99b7-c715b371-72ceda51-6a3a6a11,atelectasis;enlarged cardiac silhouette;linear/patchy atelectasis;lung opacity;pneumothorax
+56566723,12,2118-11-11 10:39:01 UTC,1,1,006ee779-96fae06f-720d5113-a15c821b-8c036436,atelectasis;lung opacity
+57653161,13,2118-11-12 09:28:41 UTC,1,1,9cadae90-ecb748f4-c02e981d-03abf4f8-ee322502,atelectasis;lung opacity;pneumothorax
+53201922,14,2118-11-12 17:11:01 UTC,1,1,52d8412a-6cffa201-af991ace-0adbed72-8942ad26,atelectasis;lung lesion;lung opacity;mass/nodule (not otherwise specified);pneumothorax
+56541555,15,2119-06-27 12:59:00 UTC,1,1,b634939f-2e3e7959-56fec4db-3724fd09-1c24e9a5,
